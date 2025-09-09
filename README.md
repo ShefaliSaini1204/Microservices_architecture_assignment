@@ -1,22 +1,31 @@
-#Microservices Architecture Assignment
+**Microservices Architecture Assignment**
+-----
 
 This project illustrates a microservices architecture using Flask with 2 services : order and user.
+Create a python virtual environment, install Flask and Requests and run the 2 services independently.
 
-**User Service**: Manages user data.
-**Order Service**: Manages orders and calls the User Service.
+- ***User Service***: Manages user data.
+- ***Order Service***: Manages orders and calls the User Service.
+  
+**Prerequisites**
+---
 
-##Prerequisites :
-###Create virtual environment###
+***Create a virtual environment***
+
 python -m venv myenv
 
-###Activate virtual environment on windows###
+***Activate virtual environment on windows***
+
 myenv\Scripts\activate
 
-###Install Flas###
+***Install Flask***
+
 pip install flask requests
 
-##Output##
+**Output**
+--
 
-Both the services running on different ports independently.
+***Both the services running on different ports independently.***
+![Architecture Diagram](
 
 
