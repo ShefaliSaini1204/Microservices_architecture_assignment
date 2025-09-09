@@ -26,6 +26,27 @@ pip install flask requests
 --
 
 ***Both the services running on different ports independently.***
-![Architecture Diagram](
+
+![Architecture Diagram](order_service_run.png)
+![Architecture Diagram2](user_service_run.png)
+
+***Creating a User***
+
+![Architecture Diagram3](create_user_3.png)
+
+***Getting a User***
+
+![Architecture Diagram4](get_user.png)
+
+***Creating an Order***
+
+![Architecture Diagram5](create_order.png)
+
+***Getting an Order***
+
+![Architecture Diagram6](get_order.png)
+
+
+
 
 
